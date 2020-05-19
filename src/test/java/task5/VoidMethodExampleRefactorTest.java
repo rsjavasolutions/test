@@ -29,9 +29,22 @@ class VoidMethodExampleRefactorTest {
 
     //testujemy jeżeli plik nie istnieje
     @Test
-    void shouldDeleteNonExistingFile(@TempDir Path tempDir) throws IOException {
+    void shouldDeleteNoneExistingFile(@TempDir Path tempDir) throws IOException {
         //when
         boolean delete = voidMethodExampleRefactor.delete(tempDir, "testFile.txt");
+
+        //then
+        assertThat(delete).isFalse();
+    }
+
+    //test służący pokryciu całej metody
+    @Test
+    void shouldDeleteNoneEmptyDir(@TempDir Path tempDir) throws IOException {
+        //given
+        Files.createFile(tempDir.resolve("testFile.txt"));
+
+        //when
+        boolean delete = voidMethodExampleRefactor.delete(tempDir, "");
 
         //then
         assertThat(delete).isFalse();

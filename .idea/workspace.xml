@@ -3,12 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/task5/VoidMethodExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task5/VoidMethodExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task5/VoidMethodExampleRefactorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task5/VoidMethodExampleRefactorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -67,10 +70,10 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.VoidMethodExampleRefactorTest">
+  <component name="RunManager" selected="JUnit.VoidMethodExampleRefactorTest.shouldDeleteNoneEmptyDir">
     <configuration name="VoidMethodExampleRefactorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testyv1.test" />
-      <extension name="coverage">
+      <extension name="coverage" sample_coverage="false">
         <pattern>
           <option name="PATTERN" value="task5.*" />
           <option name="ENABLED" value="true" />
@@ -78,7 +81,9 @@
       </extension>
       <option name="PACKAGE_NAME" value="task5" />
       <option name="MAIN_CLASS_NAME" value="task5.VoidMethodExampleRefactorTest" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,7 +104,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VoidMethodExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VoidMethodExampleRefactorTest.shouldDeleteNoneEmptyDir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testyv1.test" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +113,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="task5" />
-      <option name="MAIN_CLASS_NAME" value="task5.VoidMethodExampleTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="task5.VoidMethodExampleRefactorTest" />
+      <option name="METHOD_NAME" value="shouldDeleteNoneEmptyDir(java.nio.file.Path)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,13 +152,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.VoidMethodExampleRefactorTest" />
+      <item itemvalue="JUnit.VoidMethodExampleRefactorTest.shouldDeleteExistingFile" />
+      <item itemvalue="JUnit.VoidMethodExampleTest.shouldDeleteFile" />
+      <item itemvalue="JUnit.VoidMethodExampleTest.shouldDeleteFileWithTempDir" />
+      <item itemvalue="JUnit.VoidMethodExampleRefactorTest.shouldDeleteNoneEmptyDir" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VoidMethodExampleRefactorTest.shouldDeleteNoneEmptyDir" />
         <item itemvalue="JUnit.VoidMethodExampleRefactorTest" />
         <item itemvalue="JUnit.VoidMethodExampleRefactorTest.shouldDeleteExistingFile" />
         <item itemvalue="JUnit.VoidMethodExampleTest.shouldDeleteFileWithTempDir" />
         <item itemvalue="JUnit.VoidMethodExampleTest.shouldDeleteFile" />
-        <item itemvalue="JUnit.VoidMethodExampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -184,11 +197,19 @@
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793585326" />
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1589784915866" />
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589905976635">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589905976635" />
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1589825682639">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589825682639" />
     <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589798971656" />
+    <state x="425" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589906374335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="290" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906374335" />
     <state x="526" y="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589792178255">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -197,32 +218,32 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793240069" />
-    <state width="1322" height="121" key="GridCell.Tab.0.bottom" timestamp="1589905685463">
+    <state width="1322" height="69" key="GridCell.Tab.0.bottom" timestamp="1589906278371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
-    <state width="1322" height="121" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589905685463" />
+    <state width="1322" height="69" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
     <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589809883651" />
-    <state width="1322" height="121" key="GridCell.Tab.0.center" timestamp="1589905685463">
+    <state width="1322" height="69" key="GridCell.Tab.0.center" timestamp="1589906278371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
-    <state width="1322" height="121" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589905685463" />
+    <state width="1322" height="69" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
     <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589809883651" />
-    <state width="1322" height="121" key="GridCell.Tab.0.left" timestamp="1589905685463">
+    <state width="1322" height="69" key="GridCell.Tab.0.left" timestamp="1589906278371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815865" />
-    <state width="1322" height="121" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589905685463" />
+    <state width="1322" height="69" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398849" />
     <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589809883651" />
-    <state width="1322" height="121" key="GridCell.Tab.0.right" timestamp="1589905685463">
+    <state width="1322" height="69" key="GridCell.Tab.0.right" timestamp="1589906278371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
-    <state width="1322" height="121" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589905685463" />
+    <state width="1322" height="69" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
     <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589809883651" />
     <state width="1322" height="254" key="GridCell.Tab.1.bottom" timestamp="1589904513194">
@@ -252,5 +273,32 @@
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904946317" />
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589825793214" />
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1589798773609" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/task5/VoidMethodExampleRefactor.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/task5/VoidMethodExampleRefactorTest.java</url>
+          <line>40</line>
+          <properties class="task5.VoidMethodExampleRefactorTest" method="shouldDeleteNoneEmptyDir">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/testyv1$VoidMethodExampleRefactorTest.ic" NAME="VoidMethodExampleRefactorTest Coverage Results" MODIFIED="1589905796729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>task5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/testyv1$VoidMethodExampleRefactorTest_shouldDeleteNoneEmptyDir.ic" NAME="VoidMethodExampleRefactorTest.shouldDeleteNoneEmptyDir Coverage Results" MODIFIED="1589906278340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>task5.*</FILTER>
+    </SUITE>
   </component>
 </project>
