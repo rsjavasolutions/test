@@ -6,6 +6,9 @@ import org.junit.jupiter.api.io.TempDir;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Set;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.junit.jupiter.api.Assertions.*;
@@ -25,6 +28,7 @@ class VoidMethodExampleRefactorTest {
 
         //then
         assertThat(delete).isTrue();
+        Set
     }
 
     //testujemy jeżeli plik nie istnieje

@@ -13,5 +13,4 @@ public class VoidMethodExampleRefactor {
           return false;
       }
     }
-
 }

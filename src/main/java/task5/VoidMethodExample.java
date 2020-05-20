@@ -10,5 +10,4 @@ public class VoidMethodExample {
     public void delete(Path path, String fileName) throws IOException {
         Files.delete(path.resolve(fileName));
     }
-
 }
