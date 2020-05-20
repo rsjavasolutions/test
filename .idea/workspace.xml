@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/task6/ExceptionsExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task6/ExceptionsExampleTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="185" />
+    <option name="myElementSize" value="36" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
