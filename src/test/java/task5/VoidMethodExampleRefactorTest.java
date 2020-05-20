@@ -28,7 +28,6 @@ class VoidMethodExampleRefactorTest {
 
         //then
         assertThat(delete).isTrue();
-        Set
     }
 
     //testujemy jeżeli plik nie istnieje
