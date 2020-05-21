@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="" />
+    <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/task8/JavaAsyncTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task8/JavaAsyncTaskTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +35,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -57,17 +61,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task8" />
       <recent name="task7" />
       <recent name="task6" />
       <recent name="task5" />
       <recent name="task4" />
-      <recent name="task3" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FibonacciTest">
+  <component name="RunManager" selected="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask">
     <configuration name="EmptyStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testyv1.test" />
       <extension name="coverage">
@@ -95,21 +99,6 @@
       <option name="MAIN_CLASS_NAME" value="task7.EmptyStringTest" />
       <option name="METHOD_NAME" value="shouldCheckStringIsNotEmpty" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionsExampleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testyv1.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="task6" />
-      <option name="MAIN_CLASS_NAME" value="task6.ExceptionsExampleTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -145,20 +134,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JavaAsyncTaskTest.shouldRunAsyncTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testyv1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task8" />
+      <option name="MAIN_CLASS_NAME" value="task8.JavaAsyncTaskTest" />
+      <option name="METHOD_NAME" value="shouldRunAsyncTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.ExceptionsExampleTest" />
       <item itemvalue="JUnit.EmptyStringTest.shouldCheckStringIsNotEmpty" />
       <item itemvalue="JUnit.EmptyStringTest" />
       <item itemvalue="JUnit.FibonacciTest.fibonacci" />
       <item itemvalue="JUnit.FibonacciTest" />
+      <item itemvalue="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask" />
         <item itemvalue="JUnit.FibonacciTest" />
         <item itemvalue="JUnit.FibonacciTest.fibonacci" />
         <item itemvalue="JUnit.EmptyStringTest" />
         <item itemvalue="JUnit.EmptyStringTest.shouldCheckStringIsNotEmpty" />
-        <item itemvalue="JUnit.ExceptionsExampleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -211,34 +216,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793240069" />
-    <state width="1322" height="328" key="GridCell.Tab.0.bottom" timestamp="1590049208529">
+    <state width="1322" height="21" key="GridCell.Tab.0.bottom" timestamp="1590051010542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
-    <state width="1322" height="328" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590049208529" />
-    <state width="1322" height="328" key="GridCell.Tab.0.center" timestamp="1590049208514">
+    <state width="1322" height="21" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590051010542" />
+    <state width="1322" height="21" key="GridCell.Tab.0.center" timestamp="1590051010542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
-    <state width="1322" height="328" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590049208514" />
-    <state width="1322" height="328" key="GridCell.Tab.0.left" timestamp="1590049208514">
+    <state width="1322" height="21" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590051010542" />
+    <state width="1322" height="21" key="GridCell.Tab.0.left" timestamp="1590051010542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815865" />
     <state width="1322" height="69" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398849" />
-    <state width="1322" height="328" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590049208514" />
-    <state width="1322" height="328" key="GridCell.Tab.0.right" timestamp="1590049208529">
+    <state width="1322" height="21" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590051010542" />
+    <state width="1322" height="21" key="GridCell.Tab.0.right" timestamp="1590051010542">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
-    <state width="1322" height="328" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590049208529" />
+    <state width="1322" height="21" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590051010542" />
     <state width="1322" height="254" key="GridCell.Tab.1.bottom" timestamp="1589917910119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

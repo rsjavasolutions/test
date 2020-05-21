@@ -18,9 +18,14 @@ repositories {
 dependencies {
     // https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-engine
     testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-engine', version: '5.4.2'
+
+    //do testowania sparamtryzowanego
     testCompile group: 'org.junit.jupiter', name: 'junit-jupiter-params', version: '5.4.2'
 
     testCompile group: 'org.assertj', name: 'assertj-core', version: '3.11.1'
+
+    // do testowania asonchryonicznego
+    testCompile group: 'org.awaitility', name: 'awaitility', version: '4.0.1'
 }
 
 test {
