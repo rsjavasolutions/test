@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="" />
+    <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/task6/ExceptionsExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/task6/ExceptionsExampleTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>

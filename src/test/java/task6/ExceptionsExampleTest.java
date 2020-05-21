@@ -41,5 +41,5 @@ class ExceptionsExampleTest {
         assertThatThrownBy(() -> exceptionsExample.doSomething(i))
                 .isInstanceOf(IllegalArgumentException.class)
                 .hasMessage("Parametr jest większy od 5");
-        }
     }
+}
