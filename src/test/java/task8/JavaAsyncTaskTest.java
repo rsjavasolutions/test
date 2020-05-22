@@ -23,6 +23,4 @@ class JavaAsyncTaskTest {
         await().until(() -> javaAsyncTask.getResult());
 
     }
-
-
 }
