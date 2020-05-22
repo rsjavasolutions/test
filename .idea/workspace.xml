@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/task9/SendMessagesSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task9/SendMessagesSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +34,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -59,79 +60,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task9" />
       <recent name="task8" />
       <recent name="task7" />
       <recent name="task6" />
       <recent name="task5" />
-      <recent name="task4" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask">
-    <configuration name="EmptyStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testyv1.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="task7" />
-      <option name="MAIN_CLASS_NAME" value="task7.EmptyStringTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmptyStringTest.shouldCheckStringIsNotEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testyv1.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="task7" />
-      <option name="MAIN_CLASS_NAME" value="task7.EmptyStringTest" />
-      <option name="METHOD_NAME" value="shouldCheckStringIsNotEmpty" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testyv1.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="task7" />
-      <option name="MAIN_CLASS_NAME" value="task7.FibonacciTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibonacciTest.fibonacci" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="testyv1.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="task7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="task7" />
-      <option name="MAIN_CLASS_NAME" value="task7.FibonacciTest" />
-      <option name="METHOD_NAME" value="fibonacci(int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SendMessagesSimpleTest">
     <configuration name="JavaAsyncTaskTest.shouldRunAsyncTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testyv1.test" />
       <extension name="coverage">
@@ -148,20 +87,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SendMessagesSimpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testyv1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task9" />
+      <option name="MAIN_CLASS_NAME" value="task9.SendMessagesSimpleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMessagesSimpleTest.shouldNotSendMessageToAnyUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testyv1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task9" />
+      <option name="MAIN_CLASS_NAME" value="task9.SendMessagesSimpleTest" />
+      <option name="METHOD_NAME" value="shouldNotSendMessageToAnyUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMessagesSimpleTest.shouldSNotSendMessageToNonExistingUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testyv1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task9" />
+      <option name="MAIN_CLASS_NAME" value="task9.SendMessagesSimpleTest" />
+      <option name="METHOD_NAME" value="shouldSNotSendMessageToNonExistingUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendMessagesSimpleTest.shouldSendMessageToUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testyv1.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="task9" />
+      <option name="MAIN_CLASS_NAME" value="task9.SendMessagesSimpleTest" />
+      <option name="METHOD_NAME" value="shouldSendMessageToUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="JUnit.EmptyStringTest.shouldCheckStringIsNotEmpty" />
-      <item itemvalue="JUnit.EmptyStringTest" />
-      <item itemvalue="JUnit.FibonacciTest.fibonacci" />
-      <item itemvalue="JUnit.FibonacciTest" />
       <item itemvalue="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask" />
+      <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSendMessageToUser" />
+      <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSNotSendMessageToNonExistingUser" />
+      <item itemvalue="JUnit.SendMessagesSimpleTest.shouldNotSendMessageToAnyUser" />
+      <item itemvalue="JUnit.SendMessagesSimpleTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SendMessagesSimpleTest" />
+        <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSendMessageToUser" />
+        <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSNotSendMessageToNonExistingUser" />
+        <item itemvalue="JUnit.SendMessagesSimpleTest.shouldNotSendMessageToAnyUser" />
         <item itemvalue="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask" />
-        <item itemvalue="JUnit.FibonacciTest" />
-        <item itemvalue="JUnit.FibonacciTest.fibonacci" />
-        <item itemvalue="JUnit.EmptyStringTest" />
-        <item itemvalue="JUnit.EmptyStringTest.shouldCheckStringIsNotEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -214,34 +216,34 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793240069" />
-    <state width="1322" height="102" key="GridCell.Tab.0.bottom" timestamp="1590060506272">
+    <state width="1323" height="141" key="GridCell.Tab.0.bottom" timestamp="1590142859710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
-    <state width="1322" height="102" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590060506272" />
-    <state width="1322" height="102" key="GridCell.Tab.0.center" timestamp="1590060506272">
+    <state width="1323" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
+    <state width="1323" height="141" key="GridCell.Tab.0.center" timestamp="1590142859710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
-    <state width="1322" height="102" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590060506272" />
-    <state width="1322" height="102" key="GridCell.Tab.0.left" timestamp="1590060506272">
+    <state width="1323" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
+    <state width="1323" height="141" key="GridCell.Tab.0.left" timestamp="1590142859710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815865" />
     <state width="1322" height="69" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398849" />
-    <state width="1322" height="102" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590060506272" />
-    <state width="1322" height="102" key="GridCell.Tab.0.right" timestamp="1590060506272">
+    <state width="1323" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
+    <state width="1323" height="141" key="GridCell.Tab.0.right" timestamp="1590142859710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
     <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
-    <state width="1322" height="102" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590060506272" />
+    <state width="1323" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
     <state width="1322" height="254" key="GridCell.Tab.1.bottom" timestamp="1589917910119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -266,13 +268,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" width="1157" height="713" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793810590" />
-    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590050402021">
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590141919855">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589792379657" />
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904946317" />
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589825793214" />
-    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1590050402021" />
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1590141919855" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/testyv1$VoidMethodExampleRefactorTest.ic" NAME="VoidMethodExampleRefactorTest Coverage Results" MODIFIED="1589905796729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -286,6 +288,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/testyv1$ExceptionsExampleTest.ic" NAME="ExceptionsExampleTest Coverage Results" MODIFIED="1589965035247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>task6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/testyv1$SendMessagesSimpleTest_shouldSNotSendMessageToNonExistingUser.ic" NAME="SendMessagesSimpleTest.shouldSNotSendMessageToNonExistingUser Coverage Results" MODIFIED="1590142519195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>task9.*</FILTER>
     </SUITE>
   </component>
 </project>
