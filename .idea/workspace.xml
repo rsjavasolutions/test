@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/task9/SendMessagesSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task9/SendMessagesSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="N:/Bootcamp Akademia Kodu/Java Training/Live codes/Week7/bazadanych" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -212,10 +212,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="526" y="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589792178255" />
-    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1589793240069">
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1590148402430">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793240069" />
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590148402430" />
     <state width="1323" height="141" key="GridCell.Tab.0.bottom" timestamp="1590142859710">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
