@@ -26,6 +26,11 @@ dependencies {
 
     // do testowania asonchryonicznego
     testCompile group: 'org.awaitility', name: 'awaitility', version: '4.0.1'
+
+    // mockito
+    testCompile group: 'org.mockito', name: 'mockito-core', version: '3.1.0'
+    testCompile group: 'org.mockito', name: 'mockito-junit-jupiter', version: '3.1.0'
+
 }
 
 test {

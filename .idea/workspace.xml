@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9cd26eb-e7b0-4222-b9cf-140c5874f9f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/task10/model/Statistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/task10/model/Statistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +34,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="package-info" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -61,28 +62,28 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="task10" />
       <recent name="task9" />
       <recent name="task8" />
       <recent name="task7" />
       <recent name="task6" />
-      <recent name="task5" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SendMessagesSimpleTest">
-    <configuration name="JavaAsyncTaskTest.shouldRunAsyncTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SendMessageExtendedTest.shouldSendMessagesToAllUsers">
+    <configuration name="SendMessageExtendedTest.shouldSendMessagesToAllUsers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testyv1.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task8.*" />
+          <option name="PATTERN" value="task10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="task8" />
-      <option name="MAIN_CLASS_NAME" value="task8.JavaAsyncTaskTest" />
-      <option name="METHOD_NAME" value="shouldRunAsyncTask" />
+      <option name="PACKAGE_NAME" value="task10" />
+      <option name="MAIN_CLASS_NAME" value="task10.SendMessageExtendedTest" />
+      <option name="METHOD_NAME" value="shouldSendMessagesToAllUsers" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,19 +153,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask" />
       <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSendMessageToUser" />
       <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSNotSendMessageToNonExistingUser" />
       <item itemvalue="JUnit.SendMessagesSimpleTest.shouldNotSendMessageToAnyUser" />
       <item itemvalue="JUnit.SendMessagesSimpleTest" />
+      <item itemvalue="JUnit.SendMessageExtendedTest.shouldSendMessagesToAllUsers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SendMessageExtendedTest.shouldSendMessagesToAllUsers" />
         <item itemvalue="JUnit.SendMessagesSimpleTest" />
         <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSendMessageToUser" />
         <item itemvalue="JUnit.SendMessagesSimpleTest.shouldSNotSendMessageToNonExistingUser" />
         <item itemvalue="JUnit.SendMessagesSimpleTest.shouldNotSendMessageToAnyUser" />
-        <item itemvalue="JUnit.JavaAsyncTaskTest.shouldRunAsyncTask" />
       </list>
     </recent_temporary>
   </component>
@@ -218,65 +219,73 @@
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793240069" />
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590148402430" />
-    <state width="1323" height="141" key="GridCell.Tab.0.bottom" timestamp="1590142859710">
+    <state width="1322" height="56" key="GridCell.Tab.0.bottom" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
-    <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
+    <state width="1322" height="56" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1323" height="141" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
-    <state width="1323" height="141" key="GridCell.Tab.0.center" timestamp="1590142859710">
+    <state width="1322" height="56" key="GridCell.Tab.0.center" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
-    <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
+    <state width="1322" height="56" key="GridCell.Tab.0.center/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1323" height="141" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
-    <state width="1323" height="141" key="GridCell.Tab.0.left" timestamp="1590142859710">
+    <state width="1322" height="56" key="GridCell.Tab.0.left" timestamp="1590310843280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815865" />
     <state width="1322" height="69" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
-    <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398849" />
+    <state width="1322" height="56" key="GridCell.Tab.0.left/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843280" />
     <state width="1323" height="141" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
-    <state width="1323" height="141" key="GridCell.Tab.0.right" timestamp="1590142859710">
+    <state width="1322" height="56" key="GridCell.Tab.0.right" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="203" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793815866" />
     <state width="1322" height="69" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589906278371" />
-    <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589826398850" />
+    <state width="1322" height="56" key="GridCell.Tab.0.right/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1323" height="141" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590142859710" />
-    <state width="1322" height="254" key="GridCell.Tab.1.bottom" timestamp="1589917910119">
+    <state width="1322" height="56" key="GridCell.Tab.1.bottom" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904513194" />
+    <state width="1322" height="56" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1322" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589917910119" />
-    <state width="1322" height="254" key="GridCell.Tab.1.center" timestamp="1589917910119">
+    <state width="1322" height="56" key="GridCell.Tab.1.center" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="254" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904513193" />
+    <state width="1322" height="56" key="GridCell.Tab.1.center/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1322" height="254" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589917910119" />
-    <state width="1322" height="254" key="GridCell.Tab.1.left" timestamp="1589917910119">
+    <state width="1322" height="56" key="GridCell.Tab.1.left" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="254" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904513193" />
+    <state width="1322" height="56" key="GridCell.Tab.1.left/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1322" height="254" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589917910119" />
-    <state width="1322" height="254" key="GridCell.Tab.1.right" timestamp="1589917910119">
+    <state width="1322" height="56" key="GridCell.Tab.1.right" timestamp="1590310843281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="254" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904513193" />
+    <state width="1322" height="56" key="GridCell.Tab.1.right/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310843281" />
     <state width="1322" height="254" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589917910119" />
     <state x="184" y="7" width="1157" height="713" key="SettingsEditor" timestamp="1589793810590">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" width="1157" height="713" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589793810590" />
-    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590141919855">
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1590308244201">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1440.860@0.0.1366.728" timestamp="1589792379657" />
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1589904946317" />
-    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1589825793214" />
+    <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590308244201" />
     <state x="454" y="83" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728@0.0.1366.728" timestamp="1590141919855" />
+    <state x="413" y="120" key="extract.method.dialog" timestamp="1590310791212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="120" key="extract.method.dialog/0.0.1366.728/1366.6.1440.860@0.0.1366.728" timestamp="1590310791212" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/testyv1$VoidMethodExampleRefactorTest.ic" NAME="VoidMethodExampleRefactorTest Coverage Results" MODIFIED="1589905796729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
